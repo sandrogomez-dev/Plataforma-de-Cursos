@@ -1,5 +1,7 @@
 # CodeMaster - Interactive Learning Platform
 
+[View Live Page](https://sandrodevx.github.io/Plataforma-de-Cursos/)
+
 Welcome to **CodeMaster**, an interactive learning platform designed to help users master programming skills through structured courses, lessons, and progress tracking. This platform offers a variety of courses in HTML, CSS, JavaScript, Python, and more, with a user-friendly interface and engaging content.
 
 ## Table of Contents
